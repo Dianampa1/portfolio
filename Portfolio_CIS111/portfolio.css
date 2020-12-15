@@ -1,0 +1,35 @@
+@charset "UTF-8";
+body {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	background-color: #e5ecdd;
+}
+header {
+	font-size: 40px;
+	padding: 40px;
+	font-weight: 600;
+	
+}
+h1 {
+	font-weight: 200;
+	font-size: 30px;
+}
+.nav {
+	list-style: none;
+
+}
+nav ul li a {
+	border: 2px black medium;
+	background-color: #e4ddec;
+	padding: 20px;
+	font-size: 20px;
+	display: flex;
+	justify-content: center;
+}
+#about {
+	font-size: 20px;
+	border: 2px solid medium;
+	width: 500px;
+	height: 200px;
+	background-color: #e4ddec;
+	padding: 30px;
+}

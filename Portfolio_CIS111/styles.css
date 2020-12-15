@@ -1,0 +1,11 @@
+@charset "UTF-8";
+body {
+	background-color: bisque;
+}
+table {
+	background-color: gainsboro;
+	border: 2px dashed;
+	padding: 20px;
+}
+
+
